@@ -1,7 +1,7 @@
 # Financial Portfolio Analysis
 
 # GROUP MEMBERS
-  1. Tushar Shukla  KU2407u745
+  1. Tushar Shukla  KU2407U745
   2. Rudrakumar Manishbhai Patel  KU2407U806
   3. Nayi Shreya Rameshbhai  KU2407U716
   4. Reshamwala Dhanvi Kalpesh  KU2407U762
