@@ -1,11 +1,11 @@
 # Financial Portfolio Analysis
 
 # GROUP MEMBERS
-  Tushar Shukla  KU2407u745
-  Rudrakumar Manishbhai Patel  KU2407U806
-  Nayi Shreya Rameshbhai  KU2407U716
-  Reshamwala Dhanvi Kalpesh  KU2407U762
-  Mansawala Jahal Bhupendra  KU2407U765
+  1. Tushar Shukla  KU2407u745
+  2. Rudrakumar Manishbhai Patel  KU2407U806
+  3. Nayi Shreya Rameshbhai  KU2407U716
+  4. Reshamwala Dhanvi Kalpesh  KU2407U762
+  5. Mansawala Jahal Bhupendra  KU2407U765
 
 # Objective
   The objective of this project is to analyze stock market data to evaluate the risk (standard deviation) and return (mean) of stocks over time.The analysis provides insights into the relationship      between risk and return, helping to make informed investment decisions.
